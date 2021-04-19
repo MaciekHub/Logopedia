@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Logopedia</string>
+    <string name="cwiczenie1">Cwiczenie 1</string>
+    <string name="button1">Start</string>
+    <string name="cwiczenie2">Cwiczenie 2</string>
+    <string name="button2">Start</string>
+    <string name="cwiczenie3">Cwiczenie 2</string>
+    <string name="diagnoza">Diagnoza</string>
+    <string name="button3">Start</string>
+    <string name="buttonStart">Rozpocznij</string>
+    <string name="buttonStop">stop</string>
+    <string name="buttonNext">Nastepny</string>
+    <string name="buttonRecordings">Nagrania</string>
+    <string name="endScreenGratulations">Gratulacje!</string>
+    <string name="backToMenu">Wróć do menu</string>
+    <string name="sendRecording">Wyślij nagranie</string>
+    <string name="imageButtonStart">- Przycisk włączający nagrywanie</string>
+    <string name="imageButtonStop">- Przycisk wyłączający nagrywanie</string>
+    <string name="imageButtonNext">- Przycisk zmieniający obrazek na kolejny</string>
+    <string name="imageButtonPrevious">- Przycisk zmieniający obrazek na poprzedni</string>
+    <string name="imageButtonSpeaker">- Przycisk włączający odsłuch wymowy obrazka przy pomocy translatora</string>
+    <string name="imageButtonPlay">- Przycisk włączający nagrany odsłuch wymowy obrazka</string>
+    <string name="exercise1Desc">Włącz ciągłe nagrywanie, a następnie wypowiadaj na głos nazwy obrazków pokazujących się na ekranie.</string>
+    <string name="exercise2Desc">Włącz nagrywanie, a następnie wypowiadaj na głos nazwy obrazków(pojedynczy wyraz!) pokazujących się na ekranie. W razie problemów
+     uzyj przycisku głośnika, aby sprawdzić poprawną wymowę.</string>
+    <string name="diagnozaDesc">Włącz nagrywanie, a następnie wypowiadaj na głos nazwy obrazków(pojedynczy wyraz!) pokazujących się na ekranie. Efektem końcowym będzie
+    formularz diagnozy</string>
+    <string name="translationForm">Odłuchaj nagrania i wprowadź ewentualne komentarze.</string>
+
+    <string name="szalik">szalik</string>
+    <string name="koszyk">koszyk</string>
+    <string name="mysz">mysz</string>
+    <string name="zaba">żaba</string>
+    <string name="lyzwy">łyżwy</string>
+    <string name="czapka">czapka</string>
+    <string name="rekawiczki">rękawiczki</string>
+    <string name="klucz">klucz</string>
+    <string name="dzem">dżem</string>
+    <string name="ryba">ryba</string>
+    <string name="narty">narty</string>
+    <string name="ser">ser</string>
+    <string name="slimak">ślimak</string>
+    <string name="hustawka">huśtawka</string>
+    <string name="mis">miś</string>
+    <string name="ziemniaki">ziemniaki</string>
+    <string name="lazienka">łazienka</string>
+    <string name="ciastka">ciastka</string>
+    <string name="bocian">bocian</string>
+    <string name="lokiec">łokieć</string>
+    <string name="dzieci">dzieci</string>
+    <string name="ludzie">ludzie</string>
+
+
+
+</resources>
